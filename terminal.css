@@ -1,0 +1,178 @@
+body
+{
+	font-family: "Courier New", monospace;
+	font-size: 13px;
+	margin: 1px;
+}
+.right
+{
+	position: absolute;
+	right: 0px;
+}
+a
+{
+	color: inherit;
+	text-decoration: underline;
+}
+pre
+{
+	display: inline;
+}
+/* ANSI colors, as shown in PuTTY */
+/* normal */
+.n0 /* black */
+{
+	color: #000000;
+}
+.n1 /* red */
+{
+	color: #BB0000;
+}
+.n2 /* green */
+{
+	color: #00BB00;
+}
+.n3 /* yellow */
+{
+	color: #BBBB00;
+}
+.n4 /* blue */
+{
+	color: #0000BB;
+}
+.n5 /* magenta */
+{
+	color: #BB00BB;
+}
+.n6 /* cyan */
+{
+	color: #00BBBB;
+}
+.n7 /* gray */
+{
+	color: #BBBBBB;
+}
+/* bright */
+.b0 /* darkgray */
+{
+	color: #555555;
+}
+.b1 /* red */
+{
+	color: #FF5555;
+}
+.b2 /* green */
+{
+	color: #55FF55;
+}
+.b3 /* yellow */
+{
+	color: #FFFF55;
+}
+.b4 /* blue */
+{
+	color: #5555FF;
+}
+.b5 /* magenta */
+{
+	color: #FF55FF;
+}
+.b6 /* cyan */
+{
+	color: #55FFFF;
+}
+.b7 /* white */
+{
+	color: #FFFFFF;
+}
+/* Background colors */
+/* normal */
+.bn0 /* black */
+{
+	background-color: #000000;
+}
+.bn1 /* red */
+{
+	background-color: #BB0000;
+}
+.bn2 /* green */
+{
+	background-color: #00BB00;
+}
+.bn3 /* yellow */
+{
+	background-color: #BBBB00;
+}
+.bn4 /* blue */
+{
+	background-color: #0000BB;
+}
+.bn5 /* magenta */
+{
+	background-color: #BB00BB;
+}
+.bn6 /* cyan */
+{
+	background-color: #00BBBB;
+}
+.bn7 /* gray */
+{
+	background-color: #BBBBBB;
+}
+/* bright */
+.bb0 /* darkgray */
+{
+	background-color: #555555;
+}
+.bb1 /* red */
+{
+	background-color: #FF5555;
+}
+.bb2 /* green */
+{
+	background-color: #55FF55;
+}
+.bb3 /* yellow */
+{
+	background-color: #FFFF55;
+}
+.bb4 /* blue */
+{
+	background-color: #5555FF;
+}
+.bb5 /* magenta */
+{
+	background-color: #FF55FF;
+}
+.bb6 /* cyan */
+{
+	background-color: #55FFFF;
+}
+.bb7 /* white */
+{
+	background-color: #FFFFFF;
+}
+.b
+{
+        font-weight: bold;
+}
+.i
+{
+        font-style: italic;
+}
+.u
+{
+        text-decoration: underline;
+}
+.s
+{
+        text-decoration: line-through;
+}
+.reset
+{
+        background-color: #000000;
+        color: #BBBBBB;
+        font-weight: normal;
+        font-style: normal;
+        text-decoration: none;
+}
